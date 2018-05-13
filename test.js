@@ -2,10 +2,14 @@
 alert('hello');
 console.log('hello');
 55
-wefwef
+test();
 fwefwefw
 wef
-we
+hello();
+
+function() {
+  console.log(5); 
+}
 fw
 efw
 wfwe
