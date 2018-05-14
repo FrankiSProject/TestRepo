@@ -1,12 +1,8 @@
-5555
 alert('hello');
 console.log('hello');
-55
-wefwef
-fwefwefw
-wef
-we
-fw
-efw
-wfwe
-ef
+
+function hello() {
+    alert('Hi!'); 
+}
+
+// it's useless comment
