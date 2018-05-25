@@ -2,7 +2,7 @@ alert('hello');
 console.log('hello');
 
 function hello() {
-    alert('Hi!'); 
+    alert('Bye!');
 }
 
 // it's useless comment
