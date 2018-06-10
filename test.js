@@ -1,8 +1,13 @@
 alert('hello');
-console.log('hello');
 
 function hello() {
     alert('Hi!'); 
 }
 
-// it's useless comment
+function bye() {
+    console.log('Bye :(');   
+}
+
+// one more comment
+var testVar = 5;
+console.log(testVar);
