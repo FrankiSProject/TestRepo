@@ -1,7 +1,7 @@
 alert('hello');
 
 function hello() {
-    alert('Hi!'); 
+    alert('Bye!');
 }
 
 function bye() {

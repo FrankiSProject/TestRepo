@@ -1,0 +1,11 @@
+hello();
+
+functionhello() {
+    // some action
+}
+
+const someAnotherTask = (params) => {
+    requrestSomething(params);
+};
+
+comeAnotherTask();
